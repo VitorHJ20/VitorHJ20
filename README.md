@@ -1,12 +1,12 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F723D6&width=435&lines=Hi+there!+I'm+Vitor+Jesus)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+Vitor+Jesus)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_hjes/?hl=pt-br)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-henrique-de-jesus-46b665279/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorhj05@gmail.com)
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHJ20&show_icons=true&theme=radical)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHJ20&show_icons=true&theme=dark)
 ### What I use in my day:
 
 <div style= "display: inline_block"><br/>
